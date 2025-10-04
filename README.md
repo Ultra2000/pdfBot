@@ -379,8 +379,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 - **Documentation** : Voir ce README
 - **Issues** : Créer un ticket GitHub
-- **Discord** : [Lien du serveur] (si applicable)
 
 ---
 
-**Fait avec ❤️ pour simplifier le traitement de PDF via WhatsApp**
+**Fait avec ❤️ par Fréjus BOURAIMA pour simplifier le traitement de PDF via WhatsApp**
