@@ -1,0 +1,103 @@
+*.log
+.DS_Store
+.env
+.env.backup
+.env.production
+.env.template
+.phpactor.json
+.phpunit.result.cache
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+/auth.json
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+Homestead.json
+Homestead.yaml
+Thumbs.db
+
+# PowerShell scripts (utilités de développement)
+*.ps1
+
+# Fichiers temporaires et tests
+*-test.php
+test-*.php
+*-temp.*
+*.tmp
+*.temp
+
+# Documentation de développement
+*-summary.md
+*-completed.md
+*COMPLETE*.md
+STEP*.md
+step*.md
+
+# Fichiers de configuration locaux
+config-*.ps1
+install-*.ps1
+verify-*.ps1
+run-*.ps1
+start-*.ps1
+status-*.ps1
+lancer-*.ps1
+redemarrer-*.ps1
+
+# Logs et dumps
+*.dump
+*.sql
+/storage/debugbar
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# OS et éditeurs
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python (microservice)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ngrok
+ngrok
+ngrok.exe

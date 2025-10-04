@@ -1,0 +1,57 @@
+# Fichiers PowerShell de développement et utilitaires
+*.ps1
+
+# Documentation temporaire de développement
+*-summary.md
+*-completed.md
+*COMPLETE*.md
+STEP*.md
+step*.md
+*SUCCESS*.md
+MISSION*.md
+TEST-*.md
+WHATSAPP-*.md
+MIGRATION-*.md
+GUIDE-*.md
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*-temp.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Configuration locale
+config-*.json
+local-*.conf
+
+# Backup
+*.backup
+*.bak
+
+# Python cache (microservice)
+__pycache__/
+*.pyc
+
+# Node modules (si installé à la racine)
+node_modules/
+
+# ngrok
+ngrok
+ngrok.exe
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
